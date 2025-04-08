@@ -42,8 +42,3 @@ Además, se identificaron los siguientes indicadores clave para un plan de soste
 * Inversión en proyectos ambientales.
 
 **Nota:** La elaboración del Plan de Sostenibilidad completo queda pendiente para una tarea futura.
-
-## Enlaces de Interés
-
-* **Institut Tecnològic de Barcelona:** [https://www.itb.cat/](https://www.itb.cat/)
-* **Twitter ITB:** [@iTecBcn](https://twitter.com/iTecBcn)
